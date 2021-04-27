@@ -9,4 +9,4 @@ For working with this application
 4. Then type node app in you terminal
 5. you will get output in terminal, For all the sample data
 
-For testing the output with some other data you replace the data in json array at data.js 
+For testing the output with some other data you can replace the data in json array at data.js 
