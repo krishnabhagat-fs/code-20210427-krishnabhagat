@@ -1,8 +1,9 @@
+//Bmi clculator application
 module.exports = (height, weight) =>{
 
-    let bmi = (weight/(height*height)).toFixed(2);
-    let val;
-    let risk;
+    let bmi = (weight/(height*height)).toFixed(2);//bmi formula with value having two decimal points
+    let val; // Health details
+    let risk; // storing the type of risk you having
 
     if(bmi<=18.4)
     {
